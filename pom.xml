@@ -14,7 +14,7 @@
     <name>rabbit-stock-quote-service</name>
     <description>Reactive RabbitMQ Stock Quote Service</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>16</java.version>
     </properties>
 
     <developers>
